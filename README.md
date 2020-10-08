@@ -43,8 +43,14 @@ REST API:
 ## Application-4: [flightcheckin](https://github.com/KrishnakanthYachareni/fullstack-development/tree/master/back-end/flightcheckin)
 1. This is spring microservice aplication uses JSP pages to serve flight checkin process by consuminig the above REST API.
 
-## Application-4: [checkinapp](https://github.com/KrishnakanthYachareni/fullstack-development/tree/master/front-end/checkinapp)
+## Application-5: [checkinapp](https://github.com/KrishnakanthYachareni/fullstack-development/tree/master/front-end/checkinapp)
 1. This is a front-end Angular aplication serves flight checkin process by consuminig the above REST API.
+
+## Application-6: [clinicals-api](https://github.com/KrishnakanthYachareni/fullstack-development/tree/master/back-end/clinicals-api)
+It is a spring RESTful webservice application and it offers clinical API, which is consumed by clinicalapp react fornt-end application.
+
+## Application-7: [clinicalsapp](https://github.com/KrishnakanthYachareni/fullstack-development/tree/master/front-end/clinicalsapp)
+Front-end React application and it consumes above REST API.
 
 ### Reference Documentation
 For further reference, please consider the following sections:
