@@ -52,6 +52,9 @@ It is a spring RESTful webservice application and it offers clinical API, which 
 ## Application-7: [clinicalsapp](https://github.com/KrishnakanthYachareni/fullstack-development/tree/master/front-end/clinicalsapp)
 Front-end React application and it consumes above REST API.
 
+## Application-8: [flightservices](https://github.com/KrishnakanthYachareni/fullstack-development/tree/master/flightservices)
+It is a basic RESTful springboot application. Built the docker image of this application and deployed on docker. Follow the instructions provided inside the project for docker deployment.
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
